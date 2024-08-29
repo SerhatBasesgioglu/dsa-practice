@@ -1,5 +1,5 @@
 question_number,difficulty,tags,solved,optimal,time_taken,date
-1929,e,array-simulation,yes,yes,1.08,27/8,
+1929,e,array-simulation,yes,yes,1.08,27/8
 1920,e,array-simulation,yes,no,3.55,27/8
 3190,e,array-math,yes,yes,1.42,27/8
 2011,e,array-string-simulation,yes,yes,1.00,27/8
@@ -36,3 +36,4 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 1047,e,string-stack,yes,yes,7.55,28/8
 824,e,string,no,,,28/8
 171,e,math-string,no,,,28/8
+2828,e,array-string,yes,yes,1.17,28/8
