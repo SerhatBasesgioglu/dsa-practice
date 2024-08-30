@@ -53,3 +53,7 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 2309,e,hashtable-string-enumeration,yes,yes,8.31,29/8
 344,e,twopointers-string,yes,yes,1.25,29/8
 13,e,hashtable-math-string,no,,,29/8
+2540,e,array-hashtable-twopointers-binarysearch,yes,yes,3.46,30/8
+2678,e,array-string,yes,yes,1.27,30/8
+1768,e,twopointers-string,no,,,30/8
+1704,e,string-counting,no,,,30/8
