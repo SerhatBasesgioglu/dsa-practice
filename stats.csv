@@ -57,3 +57,4 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 2678,e,array-string,yes,yes,1.27,30/8
 1768,e,twopointers-string,no,,,30/8
 1704,e,string-counting,no,,,30/8
+3168,e,string-simulation,yes,yes,2.00,31/8
