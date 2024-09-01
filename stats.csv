@@ -58,3 +58,5 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 1768,e,twopointers-string,no,,,30/8
 1704,e,string-counting,no,,,30/8
 3168,e,string-simulation,yes,yes,2.00,31/8
+1012,e,string-stack,no,,,1/9
+15,m,array-twopointers-sorting,yes,yes,14.26,1/9
