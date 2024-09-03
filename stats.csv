@@ -60,3 +60,7 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 3168,e,string-simulation,yes,yes,2.00,31/8
 1012,e,string-stack,no,,,1/9
 15,m,array-twopointers-sorting,yes,yes,14.26,1/9
+2367,e,array-hashtable-twopointers-enumeration,yes,no,5.18,2/9
+557,e,twopointers-string,yes,no,6.14,2/9
+821,e,array-twopointers-string,no,,,2/9
+2396,m,math-twopointers-brainteaser,yes,no,10.52,2/9
