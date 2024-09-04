@@ -64,3 +64,6 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 557,e,twopointers-string,yes,no,6.14,2/9
 821,e,array-twopointers-string,no,,,2/9
 2396,m,math-twopointers-brainteaser,yes,no,10.52,2/9
+709,e,string,yes,yes,0.37,4/9
+1684,e,array-hashtable-string-bitmanipulation-counting,yes,yes,2.38,4/9
+2535,e,array-math,yes,no,2.07,4/9
