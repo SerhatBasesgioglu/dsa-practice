@@ -67,3 +67,6 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 709,e,string,yes,yes,0.37,4/9
 1684,e,array-hashtable-string-bitmanipulation-counting,yes,yes,2.38,4/9
 2535,e,array-math,yes,no,2.07,4/9
+26,e,array-twopointers,yes,yes,14.52,5/9
+27,e,array-twopointers,yes,yes,1.48,5/9
+28,e,twopointers-string-stringmatching,yes,no,9.29,5/9
