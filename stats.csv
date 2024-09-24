@@ -70,3 +70,13 @@ question_number,difficulty,tags,solved,optimal,time_taken,date
 26,e,array-twopointers,yes,yes,14.52,5/9
 27,e,array-twopointers,yes,yes,1.48,5/9
 28,e,twopointers-string-stringmatching,yes,no,9.29,5/9
+-1,e,bubblesort,yes,yes,0.58,6/9
+-2,e,selectionsort,yes,yes,0.46,6/9
+-3,e,insertionsort,yes,yes,1.07,6/9
+-4,e,quicksort,yes,yes,3.47,6/9
+-5,e,mergesort,yes,yes,2.15,6/9
+-6,e,countingsort,,,,
+-7,e,radixsort,,,,
+-8,e,heapsort,,,,
+-9,e,linearsearch,,,,
+-10,e,binarySearch,,,,
